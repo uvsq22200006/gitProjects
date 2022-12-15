@@ -1,2 +1,3 @@
 x=3.3
 print("le type de x est", type(x))
+ba
